@@ -72,6 +72,7 @@
 | Đề số 9. Trò chơi Oẳn Tù Tì qua mạng | Nguyễn Trọng Đàn | [:octocat:github](https://github.com/pax-glitch/LTM-1604-D09-OTT-TCP) | |
 | Đề số 9. Trò chơi Oẳn Tù Tì qua mạng | Nguyễn Việt Ninh | [:octocat:github](https://github.com/nvninh2804nvn-boop/LTM-1604-D09-GameOANTUTI-TCP.git) | |
 | Đề số 10. Ứng dụng điều khiển máy tính từ xa (Remote Control) | Lê Hải Đăng | [:octocat:github](https://github.com/rouhvh/LTM-1604-D10-Remote-Control.git) | |
+| Đề số 10. Ứng dụng điều khiển máy tính từ xa (Remote Control) | Nguyễn Hải Phong | [:octocat:github](https://github.com/haiphong24092004/RemotePC.git) | |
 | Đề số 11. Game Tic Tac Toe (Caro 3x3) | Nguyễn Hải Đăng | [:octocat:github](https://github.com/danganh1009/LTM-1604-D11-Game-Tic-Tac-Toe.git) | |
 | Đề số 11. Game Tic Tac Toe (Caro 3x3) | Vũ Đình Quân | [:octocat:github](https://github.com/Quan0804/LTM-1604-D11-Game-Tic-Tac-Toe-.git) | |
 | Đề số 12. Ứng dụng tra cứu từ điển Anh–Việt | Nguyễn Tiến Đạt | [:octocat:github](https://github.com/wayzedgolden1/LTM-1604-D12.git) | |
@@ -85,4 +86,5 @@
 | Đề số 18. Ứng dụng trắc nghiệm trực tuyến | Khổng Minh Hoài | [:octocat:github](https://github.com/minhhoai55/LTM-1604-D18-AppTestOnline.git) | |
 | Đề số 19. Hệ thống quản lý ngân hàng mini | Lê Bá Hoan | [:octocat:github](https://github.com/h0an12/LTM-16-04-D19-Chat-UDP.git) | |
 | Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Lã Việt Hoàng | [:octocat:github](https://github.com/Tabisan805/LTM-1604-De20-Alert-Notification-UDP) | |
+
 
